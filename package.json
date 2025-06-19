@@ -29,8 +29,8 @@
     "array-back": "^3.1.0",
     "command-line-tool": "^0.8.0",
     "config-master": "^3.1.0",
-    "dmd": "^4.0.0",
-    "jsdoc-api": "^5.0.1",
+    "dmd": "^6.2.1",
+    "jsdoc-api": "^8.1.0",
     "jsdoc-parse": "^3.0.1",
     "walk-back": "^3.0.1"
   },
